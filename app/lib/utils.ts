@@ -7,6 +7,8 @@ export const formatCurrency = (amount: number) => {
   });
 };
 
+// Testing GH
+
 export const formatDateToLocal = (
   dateStr: string,
   locale: string = 'en-US',
