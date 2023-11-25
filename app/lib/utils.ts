@@ -8,6 +8,7 @@ export const formatCurrency = (amount: number) => {
 };
 
 // Testing GH
+// it works
 
 export const formatDateToLocal = (
   dateStr: string,
