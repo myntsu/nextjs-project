@@ -11,6 +11,8 @@ export const formatCurrency = (amount: number) => {
 // it works
 // lol
 // hehe
+// hihi
+// lolol
 
 export const formatDateToLocal = (
   dateStr: string,
