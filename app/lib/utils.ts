@@ -7,14 +7,6 @@ export const formatCurrency = (amount: number) => {
   });
 };
 
-// Testing GH
-// it works
-// lol
-// hehe
-// hihi
-// lolol
-// hhohoho
-
 export const formatDateToLocal = (
   dateStr: string,
   locale: string = 'en-US',
